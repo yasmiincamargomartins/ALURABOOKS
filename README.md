@@ -1,2 +1,0 @@
-# ALURABOOKS
-criando o alurabooks
